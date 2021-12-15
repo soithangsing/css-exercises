@@ -1,0 +1,19 @@
+.odd {
+    font-family: Verdana, sans-serif;
+    background-color: lightpink;
+}
+
+#first-ID {
+    color:blue;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#second-ID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
